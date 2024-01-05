@@ -1,0 +1,26 @@
+{
+  "name": "@nongbit/tailwind-room-between",
+  "description": "Utilities for controlling the room (padding) between child elements",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nongbit/tailwind-room-between.git"
+  },
+  "keywords": [
+    "tailwind",
+    "room",
+    "between",
+    "padding"
+  ],
+  "author": "Nongbit",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://github.com/nongbit/tailwind-room-between#readme",
+  "bugs": {
+    "url": "https://github.com/nongbit/tailwind-room-between/issues"
+  }
+}
