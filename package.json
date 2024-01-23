@@ -1,5 +1,5 @@
 {
-  "name": "@nongbit/tailwind-room-between",
+  "name": "@nongbitcorp/tailwind-room-between",
   "description": "Utilities for controlling the room (padding) between child elements",
   "version": "1.0.0",
   "main": "src/index.js",
